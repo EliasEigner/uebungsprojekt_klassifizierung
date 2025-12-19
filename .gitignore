@@ -211,3 +211,6 @@ __marimo__/
 
 #Bilder
 Bilder
+meine_vorhersagen.csv
+.gitignore
+testdaten_simulation.csv
