@@ -214,3 +214,4 @@ Bilder
 meine_vorhersagen.csv
 .gitignore
 testdaten_simulation.csv
+.DS_Store
