@@ -1,4 +1,4 @@
-# Smart Office Occupancy Forecasting
+# Smart Office Occupancy Detection
 ### An End-to-End Machine Learning Pipeline for HVAC Energy Optimization
 
 ## Project Overview
