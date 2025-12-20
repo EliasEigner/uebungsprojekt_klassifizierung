@@ -20,7 +20,7 @@ Buildings account for a significant portion of global energy consumption, partic
 
 ## Economic Evaluation & KPI Validation
 * **Threshold Tuning:** A custom logic that balances energy costs (€) against user comfort (minutes of "freezing" per day).
-* **KPI Metrics:** Validation based on Accuracy, ROC-AUC, and specifically **Recall** to minimize False Negatives (improving user satisfaction).
+* **KPI Metrics:** Validation based on ROC-AUC, and specifically **Recall** to minimize False Negatives (improving user satisfaction).
 * **Cost-Benefit Analysis:** Calculating the actual heating runtime and associated costs for each model to identify the most efficient solution.
 
 ## Tech Stack
