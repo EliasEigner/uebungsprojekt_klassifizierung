@@ -25,7 +25,7 @@ Buildings account for a significant portion of global energy consumption, partic
 
 ## Tech Stack
 * **Language:** Python 3.13
-* **Libraries:** `scikit-learn`, `pandas`, `numpy`, `plotly`, `holidays`
+* **Libraries:** `scikit-learn`, `pandas`, `numpy`, `plotly`, `matplotlib`, `holidays`
 
 ## Project Origin & Acknowledgements
 This project was developed within the **"Data Mining & Machine Learning 1"** module at **Karlsruhe University of Applied Sciences (HKA)**.
