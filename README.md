@@ -11,7 +11,7 @@ Durch die präzise Erkennung, ob ein Raum belegt ist, können Gebäudemanagement
     * Robuster Umgang mit Sensordrift und Zeitabgleich (Rundung auf die nächste Minute).
     * Logik zur Ausreißererkennung für unphysikalische Sensorwerte (z. B. Temperaturspitzen > 50°C).
     * Lineare Interpolation und Backwards Filling für fehlende Werte, um die Integrität der Zeitreihen zu gewährleisten.
-* **Fortgeschrittenes Feature Engineering:**
+* **Feature Engineering:**
     * **Cyclic Time Encoding:** Transformation von Zeitstempeln in Sinus- und Cosinuswellen, um die zirkuläre Natur eines 24-Stunden-Tages abzubilden.
     * **Physikalische Trends ($CO_2$-Delta):** Implementierung von 15-minütigen Lag-Features, um den schnellen $CO_2$-Anstieg beim Betreten eines Raumes zu erfassen.
     * **Domain-Integration:** Automatisierte Feiertagserkennung mithilfe der `holidays`-Library und Definition von Kernarbeitszeiten.
